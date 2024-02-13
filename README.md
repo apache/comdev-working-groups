@@ -13,9 +13,8 @@ This is one of several repos that ComDev maintains. Those repos can
 mostly be found [here](https://github.com/search?q=org%3Aapache+comdev&type=repositories). 
 Most importantly, our website is [here](https://github.com/apache/comdev-site).
 
-This one is not (yet) mirrored to Git, but probably will be some day,
-once someone gets around to that. Meanwhile, it's [in
-svn](https://svn.apache.org/repos/asf/comdev).
+This one is on GitHub at
+[apache/comdev-working-groups](https://github.com/apache/comdev-working-groups)
 
 ## Working Groups
 
