@@ -36,5 +36,4 @@ not a policeman enforcing the rules.
 * The project is voting on too many things.
 * PMC members have a conflict of interest.
 * Conversations on the mailing list mainly occur in a language other than English.
-* Only a few core people from one company are contributing code.
-
+* Only a few core people are contributing code, especially if they are from one company.
