@@ -24,7 +24,8 @@ the board will be provided in advance to the project PMC via the
 private@ mailing list.
 
 See [use-cases](use-cases.md) for possible categories of
-interest/involvement.
+interest/involvement. See also [red-flags](red-flags.md) for common
+signs of potential problems in a project.
 
 ## Values
 

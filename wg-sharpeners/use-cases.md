@@ -14,8 +14,7 @@ dealing the the challenge ultimately rests with the PMC.  Sharpeners may
 have experience and certainly will have an outside perspective that can
 be useful in addressing people-related problems in a community.
 
-## Excessive influence by a subgroup (e.g. employees of a company) or
- ndividual (BDFL)
+## Excessive influence by a subgroup (e.g. employees of a company) or individual (BDFL)
 
 ASF communities are supposed to be open to substantive influence by all
 community members.  Merit needs to be earned, but the ability to earn
