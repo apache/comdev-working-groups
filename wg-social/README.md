@@ -3,6 +3,11 @@
 To facilitate social gatherings wherever Apache contributors may be
 present.
 
+## Status
+
+This WG is just an IDEA at this point. If you'd like to participate,
+please come join the conversation.
+
 ## Who
 
 Any Apache contributor may be a wg-social member. It's helpful if you

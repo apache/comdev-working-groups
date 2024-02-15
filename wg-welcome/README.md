@@ -13,6 +13,11 @@ This includes, but is not limited to:
 * Crafting boilerplate answers to send to folks who show up asking for help getting involved, so that we don’t continue this practice of unhelpful “go figure it out on your own” responses.
 * Maybe work on some kind of a badging program (See https://badges.fedoraproject.org/ if you don’t know what I mean by that) to incentivize and gamify community engagement, for reasons that I would love to talk much more about, but are beyond the scope of this proposal.
 
+## Status
+
+This working group is in the STARTUP stage, but some work has already
+started.
+
 ## Communication
 
 To communicate with this group, please subscribe to the 
