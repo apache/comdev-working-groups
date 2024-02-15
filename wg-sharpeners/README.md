@@ -4,6 +4,12 @@ To provide "Sharpeners" - volunteers who come alongside a PMC to offer
 an outsider's perspective on the project, and advice to build their
 community.
 
+## Status
+
+This WG is in the STARTUP stage. No actual work has started, we're just
+debating what that work might look like. Please come join the
+conversation.
+
 ## Who
 
 A Sharpener must be an ASF member. They are preferably a member who has

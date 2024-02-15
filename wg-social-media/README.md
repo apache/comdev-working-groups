@@ -2,6 +2,11 @@
 
 Use social media to promote Apache communities
 
+## Status
+
+This WG is just an IDEA. Please come join the conversation about how we
+might actually do this work, and what work we should do.
+
 ## What
 
 Use the @apachecommunity Twitter account, Facebook, LinkedIn, and other
