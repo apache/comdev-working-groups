@@ -10,7 +10,7 @@ interested.)
 
 ## Members
 
-- Rich Bowen - ComDev PMC Sponsor - rbowen@apache.org
+- Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
 - Chris Dutz
 - Daniel Gruno
 - Phil Steitz

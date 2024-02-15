@@ -12,6 +12,5 @@ interested.)
 
 ## Members
 
-Rich Bowen - ComDev PMC Sponsor - rbowen@apache.org
-Steve Blackmon
-
+- Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
+- Steve Blackmon
