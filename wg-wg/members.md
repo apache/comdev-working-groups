@@ -11,6 +11,5 @@ interested.)
 
 ## Members
 
-Rich Bowen - ComDev PMC Sponsor - rbowen@apache.org
-Nadia Jiang
-
+- Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
+- Nadia Jiang
