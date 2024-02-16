@@ -23,11 +23,10 @@ a corporate entanglement, or whatever.
 A Sharpener will subscribe to the project's mailing lists
 and mostly listen. They will comment constructively when they see
 something that may be improved or when they have useful suggestions
-for the community. They will report concerns back to the board, via
-<private> sections in the ComDev report, under a new "Workgroups"
- section that will be created for this purpose.  Any comments made to
-the board will be provided in advance to the project PMC via the
-private@ mailing list.
+for the community.
+
+There may be rare situations in which specific unaddressed concerns may
+be [escalated](escalation.md) to the board.
 
 See [use-cases](use-cases.md) for possible categories of
 interest/involvement. See also [red-flags](red-flags.md) for common
