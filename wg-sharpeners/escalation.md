@@ -38,5 +38,6 @@ It is not your job to pursue that escalation unless and until the board
 approaches you for additional information or action.
 
 Remember, always, that you are a *peer*, and an advocate for the success
-of the project, not a cop.
+of the project, not a cop. But also that, as an ASF member, you are the
+custodian of the reputation of the entire Foundation.
 
