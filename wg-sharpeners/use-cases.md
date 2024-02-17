@@ -32,6 +32,11 @@ that alienate certain groups; special tools, employment status or
 location needed - anything that makes it hard for an interested
 community member to get their ideas into the project.
 
+Encourage projects to transparently document the contributor ladder -
+that is, the criteria by which people may achieve official status
+(committer, reviewer, pmc member, etc.) within the project.
+<Give some examples here of projects that do this well>
+
 ## Community lifecycle events
 
 Communities can grow and contract very quickly at the ASF.  When a
@@ -44,10 +49,19 @@ in the user community.  Projects can become wildly popular quickly
 and equally quickly decline in use.  Project communities sometimes
 have problems handling these changes.
 
+Encourage projects to conduct PMC roll-calls on a regular basis, so that
+there's not as much mystery as to who is active and who has stepped
+back, either temporarily or permanently. Celebrate emeritus PMC members,
+and normalize people taking a break.
+
 ## Community responsiveness
 
 Sometimes ASF projects have a hard time keeping up with community input
 in all of its forms - user lists, bug reports, PRs, new ideas.
+
+Encourage newer participants to do triage work. (ie, answer user
+questions, review and evaluate bug reports, review and critique PRs, and
+comment on new ideas.)
 
 ## Project communications
 
@@ -63,6 +77,10 @@ communication is sometimes a problem that needs to be addressed.
 The ASF has certain non-negotiable policies that communities are
 expected to adhere to.  <insert brief list of links>
 
+Education of policies is not policing. Rather, it's empowering a
+projecdt to self-police, so that it never rises to the level of a board
+issue.
+
 ## Legal issues
 
 We have very few lawyers among ASF communities, so when legal issues
@@ -75,5 +93,8 @@ Most ASF projects have no problem getting the help that they need
 from the ASF infrastructure team, but now and then they have special
 needs or help making clear what their needs are.
 
+Work with Infra to curate a detailed list of Infra resources and
+services - especially the self-serve ones! - and make sure projects
+know about them.
 
 
