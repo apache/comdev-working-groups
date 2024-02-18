@@ -1,5 +1,8 @@
 # How and when to escalate an issue
 
+(Note that this is really just a special case of the [ASF escalation
+best process](https://www.apache.org/board/escalation)).
+
 We are not police. We are mentors. However, there may come times when an
 issue should be escalated to the board. This document discusses how and
 when to do that.
