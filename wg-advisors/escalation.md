@@ -12,13 +12,13 @@ when to do that.
 The first principle is, don't escalate. Deal with issues within the
 project. We are not police, we are peers. As soon as you start viewing
 your role as enforcing rules, you should back off, and encourage someone
-else to take that Sharpener role.
+else to take that Advisor role.
 
 ## But ...
 
 If you feel that there is a serious problem within a project, and the
 project is *unwilling* to address it, you should discuss the problem
-with another Sharpener, for a second opinion. Remember that you are a
+with another Advisor, for a second opinion. Remember that you are a
 peer, not a cop, and your first motivation should be helping the project
 move to a better place, not punishing them for breaking rules.
 
@@ -34,7 +34,7 @@ board report, but you should not "tattle" on them.
 ## Yeah, but ...
 
 In the event that a project is persistently unwilling to address a
-problem, you should, in collaboration with at least one other Sharpener,
+problem, you should, in collaboration with at least one other Advisor,
 email board-private@apache.org with a description of the specific
 problem you are seeing, with documentation, and then leave it at that.
 It is not your job to pursue that escalation unless and until the board
