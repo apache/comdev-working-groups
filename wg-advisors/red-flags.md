@@ -1,6 +1,6 @@
 # Community Red Flags
 
-We caution Sharpener participants not to look at this as a list of rules
+We caution Advisor participants not to look at this as a list of rules
 to enforce. However, having an idea of what red flags we're looking for
 in a project can be a helpful way to start looking for places to mentor,
 and sharpen, our projects.

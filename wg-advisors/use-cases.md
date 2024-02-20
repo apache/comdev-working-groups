@@ -1,6 +1,6 @@
-# Sharpeners use cases
+# Advisors use cases
 
-Following are some example use cases for when a Sharpener might engage
+Following are some example use cases for when a Advisor might engage
 a project community.  This is not intended to be an exhaustive list --
 just some examples.
 
@@ -10,7 +10,7 @@ ASF communities are made of of people and people are prone to conflicts.
 When conflicts among community members escalate and become personal or
 when individuals consistently exhibit behaviors inconsistent with the ASF
 Code of Conduct, the community faces a challenge.  The responsibility for
-dealing the the challenge ultimately rests with the PMC.  Sharpeners may
+dealing the the challenge ultimately rests with the PMC.  Advisors may
 have experience and certainly will have an outside perspective that can
 be useful in addressing people-related problems in a community.
 
