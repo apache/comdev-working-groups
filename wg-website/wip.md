@@ -54,9 +54,12 @@ Jekyll templates to make this happen.
 
 ## Metrics
 
-We need someone to add website visit metrics to the Community.apache.org
-website and help us gain insight from those metrics. It's quite possible
-that metrics is its own top-level working group. Discuss.
+We have the visit metrics to the community.apache.org website at [Matomo]
+(https://analytics.apache.org/index.php?module=CoreHome&action=index&date=yesterday&period=day&idSite=36).
 
+We need to gain insights from these metrics. Related resources and code:
 
+* [Getting started with Matomo](https://matomo.org/guide/getting-started/getting-started/)
+* [Source code of script](https://github.com/apache/comdev-site/blob/main/layouts/partials/matomo.html)
 
+It's quite possible that metrics is its own top-level working group. Discuss.
