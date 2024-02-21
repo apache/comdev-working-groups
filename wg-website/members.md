@@ -13,4 +13,4 @@ interested.)
 - Andrew Wetmore
 - Bertrand Delacretaz
 - Trista Pan
-- tison
+- Zili Chen - <tison@apache.org>
