@@ -14,3 +14,4 @@ interested.)
 - Chris Dutz
 - Daniel Gruno
 - Phil Steitz
+- Jarek Potiuk
