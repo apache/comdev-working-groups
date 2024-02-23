@@ -89,6 +89,19 @@ You are a colleague - a peer. You are not in a position of authority.
 You cannot tell the PMC what to do. You are only an observer, and, at
 the indulgence of the PMC, advisor. Do not abuse this relationship.
 
+## Bi-directional
+
+Advisors are not just there to provide advice based on the best practices
+and rules of the Foundation. They are also there to learn from the
+project, and to bring back to ComDev and the Board the ways how many of
+the projects apply the rules and best practices in their practices and
+culture, taking into accounts individual project's needs and
+circumstances. This might lead to updating and adjusting the common
+understanding of the best practices and rules and how they apply in
+various circumstances, bringing the useful feedback to the Board and
+ComDev.
+
+
 ## FAQ
 
 ### Why a member?
