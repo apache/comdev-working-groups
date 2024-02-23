@@ -1,6 +1,6 @@
-# NameTBDs Work Group (Proposed)
+# Advisors Work Group (Proposed)
 
-To provide "NameTBDs" - volunteers who come alongside a PMC to offer
+To provide "Advisors" - volunteers who come alongside a PMC to offer
 an outsider's perspective on the project, and advice to build their
 community.
 
@@ -15,7 +15,7 @@ ComDev list has been asked to decide on a better name.
 
 ## Who
 
-A NameTBD must be an ASF member. They are preferably a member who has
+An Advisor must be an ASF member. They are preferably a member who has
 been around a while, and has some reason to be trusted as a mentor. You
 must not already be a member of the PMC you wish to sharpen. You must 
 not have any adversarial reason to take on the role - a bone to pick, 
@@ -23,7 +23,7 @@ a corporate entanglement, or whatever.
 
 ## What
 
-A NameTBD will subscribe to the project's mailing lists
+An Advisor will subscribe to the project's mailing lists
 and mostly listen. They will comment constructively when they see
 something that may be improved or when they have useful suggestions
 for the community.
@@ -37,7 +37,7 @@ signs of potential problems in a project.
 
 ## Values
 
-Interactions by NameTBDs are at the pleasure of the PMC. You do not
+Interactions by Advisors are at the pleasure of the PMC. You do not
 have any authority over the PMC.
 
 ### Declinable
@@ -54,7 +54,7 @@ the PMC when you intend to report something back to either ComDev or the
 Board. You MAY announce yourself on the dev@ and other lists, a PMC 
 member may introduce you, or you may just start participating.
 
-We will also track, here, in this repository, which NameTBD is
+We will also track, here, in this repository, which Advisor is
 observing which project.
 
 ### Non-adversarial
@@ -80,7 +80,7 @@ Do not ever cross-post between private lists with disjoint audiences. In
 general, this means don't forward content from a private list to anyone
 who is not an ASF member.
 
-All reports on NameTBD activity must be in <private> sections, unless
+All reports on Advisors activity must be in <private> sections, unless
 you have coordinated with the PMC to include it in *their* report.
 
 ### Collegial
@@ -91,16 +91,9 @@ the indulgence of the PMC, advisor. Do not abuse this relationship.
 
 ## FAQ
 
-### Why "NameTBD"
-
-Because I wanted an "sh" word, to go along with Shepherds and Shadows,
-which I'll be writing about elsewhere.
-
-"As iron sharpens iron, so one person sharpens another."
-
 ### Why a member?
 
-A NameTBD must be an ASF member. This is because doing this job
+An Advisor must be an ASF member. This is because doing this job
 requires access to a projects private@ PMC mailing list. All ASF members
 already have this access.
 
