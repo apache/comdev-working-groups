@@ -20,6 +20,9 @@ not a policeman enforcing the rules.
 * Discussions are happening off-list.
 * Too much talk is happening on the private list.
 * Users' questions are going unanswered on the mailing list.
+* Users' reported issues are going uncommented and untouched.
+* Users' PRs are going unreviewed and/or unmerged.
+* No new release for a long time, especially when new contributions was merged.
 * There is little or no activity on the mailing list.
 * There are many GitHub or version control notifications on the mailing list.
 * Building the project is challenging.

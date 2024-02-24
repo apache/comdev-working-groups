@@ -6,7 +6,7 @@ just some examples.
 
 ## People-related problems
 
-ASF communities are made of of people and people are prone to conflicts.
+ASF communities are made of people and people are prone to conflicts.
 When conflicts among community members escalate and become personal or
 when individuals consistently exhibit behaviors inconsistent with the ASF
 Code of Conduct, the community faces a challenge.  The responsibility for
@@ -31,6 +31,9 @@ that are not open to the community; language and communication styles
 that alienate certain groups; special tools, employment status or
 location needed - anything that makes it hard for an interested
 community member to get their ideas into the project.
+Long waiting for accepting a patch, long waiting for next release 
+with approved and merged patch is also something that discourages 
+for next contributions.
 
 Encourage projects to transparently document the contributor ladder -
 that is, the criteria by which people may achieve official status
