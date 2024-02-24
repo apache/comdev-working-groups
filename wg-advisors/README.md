@@ -101,6 +101,16 @@ understanding of the best practices and rules and how they apply in
 various circumstances, bringing the useful feedback to the Board and
 ComDev.
 
+## Collaborative
+
+Advisors are encouraged to share their experiences and exchange best
+practices and ideas with each other, and to collaborate on the best ways to
+help the projects and to transfer best practices and experiences of
+the various PMCs between each other. They comdev mailing list and this
+repository where "whys" and a little "hows" of the best practices and
+rules are discussed and documented serve as as platform of this
+collaboration.
+
 
 ## FAQ
 
