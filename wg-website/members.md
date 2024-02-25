@@ -14,3 +14,4 @@ interested.)
 - Bertrand Delacretaz
 - Trista Pan
 - Zili Chen - <tison@apache.org>
+- Shane Curcuru - ComDev PMC

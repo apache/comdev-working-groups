@@ -6,9 +6,9 @@ website](https://community.apache.org/).
 
 This includes, but is not limited to:
 
-* Long-term maintenance of the site. This involves regular audits, implementing metrics, and perhaps other things
+* Long-term maintenance of the ComDev website. This involves regular audits, implementing metrics, and perhaps other things
 * Reorg - this is a short-term task that I’ve been just doing on my own, which ensures it will never get done, and if it did, there may be some disagreement about how I did it.
-* Deduplication - work closely with MarkPub to figure out the *right* place for certain information; work through the policy/best-practice dichotomy and ensure that we are *not* duplicating policy docs; Work on content on www.a.o <http://www.a.o/> that is closely related to content on community.a.o - which one is authoritative? Ensure that we don’t duplicate, contradict, or confuse.
+* Deduplication - work closely with [VP, Marketing and Publicity](https://www.apache.org/press/) to figure out the *right* place for certain information; work through the policy/best-practice dichotomy and ensure that we are *not* duplicating policy docs; Work on content on www.a.o <http://www.a.o/> that is closely related to content on community.a.o - which one is authoritative? Ensure that we don’t duplicate, contradict, or confuse.
 
 See also the [proposal for the creation of this
 group](https://lists.apache.org/thread/wj1prnm95cy0rlvjqgcq15rt2r28wyqg).
@@ -28,12 +28,12 @@ from other mailing list traffic.
 Anyone with ideas and a willingness to work collaboratively with us is
 welcome to come participate in this effort. Join the 
 [ComDev mailing list], introduce yourself, and tell us what you'd like
-to work on.
+to work on.  If you're already a ComDev regular contributor, then 
+go add yourself to [members.md](members.md)
 
 ## What are we working on?
 
 A rough list of what we're working on can be found in the [work in
 progress](wip.md) file.
-
 
 [ComDev mailing list]: https://lists.apache.org/list.html?dev@community.apache.org
