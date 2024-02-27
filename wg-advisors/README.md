@@ -114,6 +114,13 @@ collaboration.
 
 ## FAQ
 
+## How to become an Advisor?
+
+Just subscribe to dev@community.apache.org and add yourself to the
+[list of advisors](advisors.md) in this repository and describe your
+experience, skill and interests. Introduce yourself as a prospect
+Advisor in the dev@community.apache.org mailing list.
+
 ### Why a member?
 
 An Advisor must be an ASF member. This is because doing this job
@@ -125,4 +132,58 @@ the ASF. Trust is transitive - that is, you may not know all members
 personally, but each member was nominated and elected by people that
 you, in turn, nominated and elected.
 
+### How to initiate PMC <-> Advisor relationship?
 
+There is no real formal process for this. As an advisor, you may simply
+start participating in the project's mailing lists (dev and/or private)
+after introducing yourself and asking if this is fine for you to become
+an Advisor.
+
+The relationship is between the PMC and Advisor, no other offices are
+involved except the Board letting the PMC know that they can have an
+Advisor if they want one and the usual way Advisors or PMCs can reach
+out to  other offices and groups (Trademarks, Legal, etc.) if they
+need to  understand specific policies or procedures.
+
+The PMC must be allowed to say "no thank you" without providing any
+reason, and you must respect that decision, and not offer again unless
+invited. The Advisor role is not a formal advised PMC role, it's a
+ComDev role and the PMC is not obliged to have an Advisor.
+
+You can also be invited by the PMC to become an Advisor. In this case
+just add the PMC to the list of PMCs you advise.
+
+### Board involvement wih Advisors
+
+The ASF Board can also - during regular Board project review process -
+identify a project that could benefit from an Advisor, and ask the PMC
+to consider inviting an Advisor, and cc: dev@community.apache.org mailing 
+list to make the advisors aware of such a project (which might also initiate
+a voluntary Advisor to step up and offer their help). In general the PMC
+should be allowed to decide whether they want an Advisor, and who that
+Advisor could bem but if any Advisor is interested in a project, they
+are encouraged to reach out to the PMC and offer their help.
+
+In neither case, the Board is appointing an Advisor. The Board is only
+asking the PMC to consider inviting an Advisor, and cc: the
+dev@community.apache.org mailing list to give the opportunity for
+the interested Advisors to step up and volunteer to help the project.
+
+The side-effect of an Advisor being involved in a project is that it
+might make it easier for the Board Members who review project
+activity to understand the project's context and health by looking
+at the discussions that the Advisor is involved in - hence the
+list of [Advisors](advisors.md) in this repository can be a helpful
+guideline for the Board Directors when they are reviewing project
+reports.
+
+### How to stop being an Advisor?
+
+You may stop being an Advisor at any time. You should let the PMC know
+on their list - usually with a `[NOTICE]` email. You do not need to
+provide any reason for stepping down, however usually by that time
+you will have built up a relationship with the PMC and it would be
+polite to explain why you are stepping down. It's up to PMC if they
+want to ask for another Advisor, also you might suggest another
+Advisor to take over your role if you see a good fit among your peers
+and you discussed it with them.
