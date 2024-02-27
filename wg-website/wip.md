@@ -63,3 +63,8 @@ We need to gain insights from these metrics. Related resources and code:
 * [Source code of script](https://github.com/apache/comdev-site/blob/main/layouts/partials/matomo.html)
 
 It's quite possible that metrics is its own top-level working group. Discuss.
+
+## Working groups content
+
+Add working group info to the website.
+
