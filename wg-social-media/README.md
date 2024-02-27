@@ -37,5 +37,7 @@ kind of guidelines or certification?
       groups?)
     * Process for people to submit content? Review and approval process.
     * Scheduling, so that it's not chaos
-
+* Fix or replace birthday.pl tool (in
+  https://svn.apache.org/repos/asf/comdev/tools) which generates the
+  list of project birthdays each month
 
