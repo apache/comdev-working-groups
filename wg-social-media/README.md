@@ -25,4 +25,17 @@ people who can responsibly, consistently, positively and coherently be
 spokespeople for the ASF. Possibly work with MarkPub to establish some
 kind of guidelines or certification?
 
+## ToDo
+
+* Define what "channels" we will be posting content to
+* Determine how we will do authentication/credential sharing, especially
+  for social networks that don't have a concept of shared channel
+  ownership.
+* Content plan/process
+    * Content acquisition and/or authoring
+    * Amplification of other accounts (projects? ASF official? External
+      groups?)
+    * Process for people to submit content? Review and approval process.
+    * Scheduling, so that it's not chaos
+
 
