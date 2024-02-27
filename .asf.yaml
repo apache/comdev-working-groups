@@ -8,6 +8,6 @@ github:
 
 notifications:
   commits:      commits@community.apache.org
-  issues:       notification@community.apache.org
-  pullrequests: notification@community.apache.org
+  issues:       notifications@community.apache.org
+  pullrequests: notifications@community.apache.org
   jira_options: link label
