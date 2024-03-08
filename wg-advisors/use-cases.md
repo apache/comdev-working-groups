@@ -100,4 +100,18 @@ Work with Infra to curate a detailed list of Infra resources and
 services - especially the self-serve ones! - and make sure projects
 know about them.
 
+## Security issues handling
+
+Security handling becomes more and more important aspect for ASF
+but also for the whole industry - not only Open Source community.
+With policies introduce by EU and US (for example CRA act in EU)
+it is more important than ever that ASF projects have a solid approach
+to security issues handling. ASF already has well established policies
+and procedures for handling security issues. They should be followed
+and the Advisor should help projects to understand the importance of
+security and to help them to maintain a solid process for handling
+security issues. Work withe security team in case there are old
+unhandled issues and when the project struggles with encouraging
+volunteers with triaging and fixing security issues.
+
 
