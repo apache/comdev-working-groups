@@ -45,7 +45,7 @@ Explanation on [why we should build our community](why/why_build_community.md)
 Explanation on [why discussions and decision-making should be on list](why/why_discussions_and_decisions.md)
 
 * Is having online meetings that are not brought back to the mailing list.
-* Discussions are happening off-list.
+* Discussions are happening off-list and are not being brought back to the list.
 * There is little or no activity on the mailing list.
 * Conversations on the mailing list mainly occur in a language other than English.
 * Too much talk is happening on the private list.
