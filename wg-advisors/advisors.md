@@ -10,7 +10,8 @@ can add yourself here if you agreed to help. See [How to initiate PMC <-> Adviso
 for more information about establishing the relationship.
 
 
-| Advisor      | Github id | Apache ID | Skills / Experience                                                                        | Advises PMCs |
-|--------------|-----------|-----------|--------------------------------------------------------------------------------------------|--------------|
-| Jarek Potiuk | @potiuk   | potiuk    | Airflow PMC member, CI/CD, Releases, Security   Event organizing, Development environments |              |
+| Advisor      | Github id   | Apache ID | Skills / Experience                                                                        | Advises PMCs |
+|--------------|-------------|-----------|--------------------------------------------------------------------------------------------|--------------|
+| Jarek Potiuk | @potiuk     | potiuk    | Airflow PMC member, CI/CD, Releases, Security   Event organizing, Development environments |              |
+| Calvin Kirs  | @CalvinKirs | kirs      | Releases, Security                                                                         |              |   
 
