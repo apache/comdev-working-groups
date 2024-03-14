@@ -25,6 +25,11 @@ people who can responsibly, consistently, positively and coherently be
 spokespeople for the ASF. Possibly work with MarkPub to establish some
 kind of guidelines or certification?
 
+## Outlets
+
+* [Twitter/X - @apachecommunity](https://twitter.com/apachecommunity)
+* [Facebook](https://www.facebook.com/ApacheSoftwareFoundation)
+
 ## ToDo
 
 * Define what "channels" we will be posting content to
