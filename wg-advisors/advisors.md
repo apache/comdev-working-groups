@@ -13,4 +13,5 @@ for more information about establishing the relationship.
 | Advisor      | Github id | Apache ID | Skills / Experience                                                                        | Advises PMCs |
 |--------------|-----------|-----------|--------------------------------------------------------------------------------------------|--------------|
 | Jarek Potiuk | @potiuk   | potiuk    | Airflow PMC member, CI/CD, Releases, Security   Event organizing, Development environments |              |
+| Justin Mclean | @justinmclean | jmclean | ASF Policy, Releases, Brandng, Community | | |
 
