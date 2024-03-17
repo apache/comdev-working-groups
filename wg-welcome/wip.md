@@ -15,7 +15,5 @@ for some drafts.
 
 ## Badging
 
-We've talked for ages about some kind of a badging platform. (See 
-https://badges.fedoraproject.org/ if you don’t know what I mean by that). 
-Let's make it happen.
+See also: [wg-badging](../wg-badging/)
 
