@@ -12,4 +12,4 @@ interested.)
 - Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
 - Willem Jiang - <ningjiang@apache.org>
 - Kristopher Traquair
-- Gláucia Esppenchutz
+- Gláucia Esppenchutz - <glauesppen@apache.org>
