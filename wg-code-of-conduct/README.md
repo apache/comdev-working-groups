@@ -43,6 +43,11 @@ The Code of Conduct working group will be a outcome-focused[1] effort to start w
 
 4) Provide it as a template on community.apache.org as a proposed/suggested template.
 
+5) Consider how to get projects and podlings to adopt their own Code of Conduct, once the default has been reviewed. Perhaps:
+   a) notify all PMCs that the new default is available and encourage them to adopt it or write their own
+   b) add adoption of Code of Conduct to podling Maturity Model
+   
+
 ## Notes
 
 [1] By outcome-focused, what I mean is that it has a specific task, which, upon completion, the WG would dissolve
