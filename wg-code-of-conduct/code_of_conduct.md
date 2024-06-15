@@ -41,7 +41,9 @@ Examples of unacceptable behavior include:
 PMC members are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful. Responsibility is individual and collective.
+or harmful. All PMC members should monitor their spaces for unacceptable
+behavior and notify members. Decisions on actions should be agreed by the PMC
+according to the usual consensus-making processes.
 
 PMC members have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
