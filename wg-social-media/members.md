@@ -14,3 +14,4 @@ interested.)
 
 - Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
 - Steve Blackmon
+- Gláucia Esppenchutz <glauesppen@apache.org>
