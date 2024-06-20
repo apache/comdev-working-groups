@@ -33,7 +33,7 @@ and branches of the ladder that are not covered, including:
 * Designer
 * Security
 * Emeritus (celebrating people who step away)
-* Conference speakers, other advocaates
+* Conference speakers, other advocates
 * etc.
 
 Talk about these roles, and tie them directly to work that can be done
