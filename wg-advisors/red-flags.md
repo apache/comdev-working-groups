@@ -30,6 +30,7 @@ Explanation on [why we should build our community](why/why_build_community.md)
 * Has author tags in the code
 * Is unsure when to recognise committers
 * No PMC members have been elected for a while
+* PMC Chair acts as a leader and not a facilitator
 * No committers have been elected for a while.
 * The project is having trouble attracting contributors.
 * Only a few core people are contributing code, especially if they are from one company.
