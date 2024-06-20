@@ -15,6 +15,9 @@ Many of the docs on community.a.o either duplicate, or in some cases
 contradict, more official documents on www.a.o. Identify these, and fix.
 Link to the official documents for matters of policy. Docs on
 community.a.o should be about advice, best practice, and howtos.
+Consider reviewing the Incubator website, since that's how podlings learn
+about what it means to be an Apache project: do Incubator policies match
+and link to the official policies?
 
 ## Contributor Ladder
 
@@ -30,6 +33,7 @@ and branches of the ladder that are not covered, including:
 * Designer
 * Security
 * Emeritus (celebrating people who step away)
+* Conference speakers, other advocaates
 * etc.
 
 Talk about these roles, and tie them directly to work that can be done
@@ -37,7 +41,7 @@ in various parts of the Foundation (Security committee, MarkPub, various
 WGs, etc).
 
 Provide some kind of visual representation of the ladder that isn't just
-veritical.
+vertical.
 
 ## Fix site navigation
 
@@ -50,7 +54,15 @@ The front page of the website is a massive wall of text, and isn't at
 all engaging. We have amazing photography. We have great content. We
 need someone who can redesign the front page of the site and make it
 appealing and engaging. Will need someone who knows how to work with
-Jekyll templates to make this happen.
+Hugo templates to make this happen.
+
+## Working Groups Homepage
+
+We should provide a user-facing homepage for working groups, with simple
+explanations of what they are and how to get involved.  Make it clear
+that WG's are primarily organized in GitHub, do work on list, etc., 
+and have a single permanent URL that people can share to each WG so 
+that it's easy for newcomers to find where to start.
 
 ## Metrics
 
