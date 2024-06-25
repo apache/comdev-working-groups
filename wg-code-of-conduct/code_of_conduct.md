@@ -31,8 +31,8 @@ Examples of unacceptable behavior include:
   any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
+* Publishing others' private information, such as a physical or email address
+  (doxing), without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -41,7 +41,9 @@ Examples of unacceptable behavior include:
 PMC members are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+or harmful. All PMC members should monitor their spaces for unacceptable
+behavior and notify members. Decisions on actions should be agreed by the PMC
+according to the usual consensus-making processes.
 
 PMC members have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
@@ -53,18 +55,19 @@ decisions when appropriate.
 This Code of Conduct applies within all community spaces, and also applies when
 an individual could reasonably be perceived as representing the community in 
 public spaces. Examples of representing our community include using an 
-apache.org email address, posting via an official social media account, or 
-acting as an appointed representative at an online or offline event.
+apache.org email address, posting via an official Apache social media account, or 
+acting as an appointed Apache or [PROJECT] representative at an online or offline event.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the PMC members responsible for enforcement at
-private@[PROJECT].apache.org
+private@[PROJECT].apache.org .
 All complaints will be reviewed and investigated promptly and fairly.
 
 All PMC members are obligated to respect the privacy and security of the
-reporter of any incident.
+reporter of any incident, as well as the accused, until enforcement has
+been determined.
 
 ## Enforcement Guidelines
 
@@ -83,7 +86,7 @@ behavior was inappropriate. A public apology may be requested.
 ### 2. Warning
 
 **Community Impact**: A violation through a single incident or series of
-actions.
+related actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
