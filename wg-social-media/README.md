@@ -29,6 +29,8 @@ kind of guidelines or certification?
 
 * [Twitter/X - @apachecommunity](https://twitter.com/apachecommunity)
 * [Facebook](https://www.facebook.com/ApacheSoftwareFoundation)
+* [LinkedIn](https://www.linkedin.com/company/the-apache-software-foundation/)
+* Mastodon?
 
 ## ToDo
 
@@ -45,4 +47,5 @@ kind of guidelines or certification?
 * Fix or replace birthday.pl tool (in
   https://svn.apache.org/repos/asf/comdev/tools) which generates the
   list of project birthdays each month
+* Process to work with MarkPub on producing and publishing content
 
