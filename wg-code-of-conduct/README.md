@@ -47,6 +47,9 @@ The Code of Conduct working group will be a outcome-focused[1] effort to start w
    a) notify all PMCs that the new default is available and encourage them to adopt it or write their own
    b) add adoption of Code of Conduct to podling Maturity Model
    
+## References
+
+For a perspective of other open source communities, here's a [list of codes of conduct](https://fossfoundation.info/categories#coc) adopted by the top 40 or so foundations.  Of the CoC pages that explicitly list their inspiration, the most frequent inspiration (or copy) is the Contributor Covenant.
 
 ## Notes
 
