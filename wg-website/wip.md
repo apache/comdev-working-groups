@@ -9,6 +9,8 @@ We need someone with website informational architecture knowledge to
 have a look at the website and help us reorganize it logically - perhaps
 by topic, or by audience? - so that finding stuff isn't so hit-or-miss.
 
+See [Personas](personas.html) for a way to review both content and site organization
+
 ## De-duplication
 
 Many of the docs on community.a.o either duplicate, or in some cases
