@@ -9,9 +9,9 @@ interested.)
 
 ## Members
 
-- Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
-- Andrew Wetmore
+- Rich Bowen - VP- ComDev - <rbowen@apache.org>
+- Andrew Wetmore - <andreww@apache.org>
 - Bertrand Delacretaz
 - Trista Pan
 - Zili Chen - <tison@apache.org>
-- Shane Curcuru - ComDev PMC
+- Shane Curcuru - 
