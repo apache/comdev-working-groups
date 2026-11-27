@@ -13,3 +13,4 @@ interested.)
 
 - Rich Bowen - ComDev PMC Sponsor - <rbowen@apache.org>
 - Nadia Jiang
+- Andrew Wetmore <andreww@apache.org>
